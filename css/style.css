@@ -1090,3 +1090,9 @@ height: 311px;
 .btn-know-more:hover{
     color: #fff;
 }
+.footer-photos-gallery img{
+    width: 100%;
+}
+.footer-photos-gallery{
+    margin-top: 20px;
+}
